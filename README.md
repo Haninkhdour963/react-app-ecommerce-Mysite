@@ -10,6 +10,7 @@ This is a full-stack e-commerce app built with:
 - ⚙️  products and login
 
 Live Features Demo, please visit: [https://haninkhdour963.github.io/react-app-ecommerce-Mysite/]
+
 Dark mode toggle
 
 Responsive product cards
