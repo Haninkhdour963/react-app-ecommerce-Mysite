@@ -1,4 +1,22 @@
 # Getting Started with Create React App
+# ShopSmart - Fullstack E-commerce App
+
+This is a full-stack e-commerce app built with:
+
+- 💻 React (frontend in `client/`)
+- 💅 Bootstrap 5 styling
+- 🌙 Dark mode toggle
+- 🛒 Cart and authentication system
+- ⚙️  products and login
+
+Live Features
+Dark mode toggle
+
+Responsive product cards
+
+Cart management
+
+Basic login simulation
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
